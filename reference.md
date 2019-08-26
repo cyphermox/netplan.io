@@ -4,18 +4,19 @@ desc: Reference | netplan.io
 sitemap:
     priority: 1.0
     changefreq: 'monthly'
-    lastmod: 2017-01-13T17:20:30+00:00
+    lastmod: 2018-12-13T17:02:34+00:00
 ---
 <div class="p-strip--light is-bordered is-shallow">
   <div class="row">
     <div class="col-12">
-      <h1>Netplan reference</h1>
+      <h1 class="u-no-margin--bottom">Netplan reference</h1>
     </div>
   </div>
 </div>
 <div class="p-strip">
   <div class="row">
     <div class="col-8" markdown="1">
+
 
 ## Introduction
 Distribution installers, cloud instantiation, image builds for particular
